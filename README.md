@@ -1,7 +1,9 @@
 # python-challenge
 Python scripts to analyze the financial records of a company and small, rural town vote-counting process.
 
-PyBank Instructions
+![revenue-per-lead](https://github.com/carojasp12/python-challenge/assets/152667250/0826c6d2-9c58-4cb6-9337-a429ec15b18d)
+
+# PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 Your task is to create a Python script that analyzes the records to calculate each of the following values:
@@ -18,16 +20,13 @@ The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
 
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $22564198
-Average Change: $-8311.11
-Greatest Increase in Profits: Aug-16 ($1862002)
-Greatest Decrease in Profits: Feb-14 ($-1825558)
+![Screenshot 2024-01-16 005949](https://github.com/carojasp12/python-challenge/assets/152667250/46517c87-99bd-4b59-ad2c-39d2714c2728)
+
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-PyPoll Instructions
+# PyPoll Instructions
+![Vote_counting](https://github.com/carojasp12/python-challenge/assets/152667250/9a8adfb5-80e8-43ad-8c1f-6a2e75b87d2c)
+
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
 You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
@@ -44,14 +43,6 @@ The winner of the election based on popular vote
 
 Your analysis should align with the following results:
 
-Election Results
--------------------------
-Total Votes: 369711
--------------------------
-Charles Casper Stockham: 23.049% (85213)
-Diana DeGette: 73.812% (272892)
-Raymon Anthony Doane: 3.139% (11606)
--------------------------
-Winner: Diana DeGette
--------------------------
+![Screenshot 2024-01-16 010208](https://github.com/carojasp12/python-challenge/assets/152667250/68a1b48a-631a-4a80-a000-59f59a47b838)
+
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
