@@ -1,4 +1,4 @@
-# python-challenge
+# Python-Challenge
 Python scripts to analyze the financial records of a company and small, rural town vote-counting process.
 
 ![revenue-per-lead](https://github.com/carojasp12/python-challenge/assets/152667250/0826c6d2-9c58-4cb6-9337-a429ec15b18d)
